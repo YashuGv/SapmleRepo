@@ -1,0 +1,14 @@
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\bin\Release\net7.0\EntityFrame.deps.json
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\bin\Release\net7.0\EntityFrame.runtimeconfig.json
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\bin\Release\net7.0\EntityFrame.dll
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\bin\Release\net7.0\EntityFrame.pdb
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.csproj.AssemblyReference.cache
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.GeneratedMSBuildEditorConfig.editorconfig
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.AssemblyInfoInputs.cache
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.AssemblyInfo.cs
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.csproj.CoreCompileInputs.cache
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.dll
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\refint\EntityFrame.dll
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.pdb
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\EntityFrame.genruntimeconfig.cache
+E:\capstone\Team-Perseverance\PatientHealthRecordServices\MicroService_PHR_Api\PHRservice\ClassLibrary1\obj\Release\net7.0\ref\EntityFrame.dll
